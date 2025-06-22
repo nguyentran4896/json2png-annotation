@@ -1,0 +1,36 @@
+{
+    "image.jpg": {
+        "regions": {
+            "0": {
+                "shape_attributes": {
+                    "all_points_x": [
+                        100,
+                        200,
+                        200,
+                        100
+                    ],
+                    "all_points_y": [
+                        100,
+                        100,
+                        200,
+                        200
+                    ]
+                }
+            },
+            "1": {
+                "shape_attributes": {
+                    "all_points_x": [
+                        300,
+                        400,
+                        350
+                    ],
+                    "all_points_y": [
+                        300,
+                        300,
+                        400
+                    ]
+                }
+            }
+        }
+    }
+}
